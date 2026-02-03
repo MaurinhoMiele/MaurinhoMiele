@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Maurinho+Miele+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Atualmente estagiário de programação, fazendo faculdade de Engenharia da Computação.
+ Me chamo Maurinho Miele Rodrigues e atualmente sou estagiário de desenvolvimento na T2M, onde venho me desenvolvendo como programador com foco em C# e .NET. Estou cursando Engenharia da Computação, o que tem ampliado minha visão sobre arquitetura de software, resolução de problemas e fundamentos da computação.
 
-Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
+Sou apaixonado por tecnologia e aprendizado contínuo. No dia a dia, busco melhorar minhas habilidades em backend, boas práticas de código, orientação a objetos, SOLID e desenvolvimento de aplicações escaláveis. Cada projeto é uma oportunidade de evoluir e experimentar novas soluções.
 
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/maurinho-rodrigues/)
@@ -32,7 +32,6 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
     - Trabalha com design, responsividade e usabilidade
     - Usa tecnologias como: HTML, CSS, JavaScript, React, Vue, Angular
   - **Back-end:** 
-    - Criar a lógica do sistema
     - Criar a lógica do sistema
     - Desenvolver APIs
     - Trabalhar com banco de dados
