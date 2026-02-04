@@ -61,6 +61,43 @@ Sou apaixonado por tecnologia e aprendizado contínuo. No dia a dia, busco melho
   
 </details>
 
+### Na área de IA
+<details> 
+<summary>Conhecimento na área de IA.</summary>
+
+**Estudos em Agentes de Inteligência Artificial**
+
+  - Aprendendo a criar agentes de IA utilizando n8n.
+
+  - Explorando automação de fluxos com agentes inteligentes.
+
+  - Primeiro contato com orquestração de múltiplos agentes.
+
+  - Desenvolvimento de pequenos projetos focados em aplicações práticas.
+
+  - Descobrindo formas de aplicar e monetizar soluções com agentes de IA.
+
+**Automação & Processos**
+
+  - Criação de workflows simples e progressivamente mais avançados Integração inicial de APIs e serviços externos.
+
+  - Estudos sobre otimização de processos por meio de automação inteligente.
+
+ **Ferramentas & Tecnologias**
+
+  - n8n (aprendizado em automação, integrações e agentes) Plataformas de IA generativa como ChatGPT e Microsoft Copilot.
+
+
+**Resumo**
+
+  - Atualmente participo de uma imersão em Agentes de IA, onde estou aprendendo a criar, automatizar e orquestrar agentes utilizando n8n.
+
+  - Já desenvolvi meus primeiros agentes simples, automatizei tarefas e estou evoluindo para entender como múltiplos agentes podem trabalhar juntos.
+
+  - Busco aplicar esse conhecimento em projetos práticos, sempre visando aprender mais e explorar novas possibilidades dentro do ecossistema de IA.
+
+</details>
+
 --- 
 
 
