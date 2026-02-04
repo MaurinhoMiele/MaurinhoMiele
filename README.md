@@ -57,7 +57,7 @@ Sou apaixonado por tecnologia e aprendizado contínuo. No dia a dia, busco melho
 
   - Busco evolução contínua, aprendizado prático e aplicação dos conhecimentos em projetos reais.
   
-  - [**C#**](https://dotnet.microsoft.com/pt-br/languages/csharp): A linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
+  <!--- [**C#**](https://dotnet.microsoft.com/pt-br/languages/csharp): A linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.-->
   
 </details>
 
