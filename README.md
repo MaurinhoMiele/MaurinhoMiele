@@ -49,6 +49,14 @@ Sou apaixonado por tecnologia e aprendizado contínuo. No dia a dia, busco melho
 <details>
 <summary>Conhecimento na área de programação.</summary>
 
+  - Tenho conhecimentos em C# e .NET, com foco em lógica de programação, programação orientada a objetos (POO), uso de classes, métodos, herança, encapsulamento e tratamento de exceções.
+
+  - Possuo experiência com coleções (List, Dictionary), manipulação de arquivos, interfaces e boas práticas de código.
+
+  - Atualmente estou estudando APIs REST com .NET, integração com banco de dados e versionamento de código utilizando Git e GitHub.
+
+  - Busco evolução contínua, aprendizado prático e aplicação dos conhecimentos em projetos reais.
+  
   - [**C#**](https://dotnet.microsoft.com/pt-br/languages/csharp): A linguagem de programação de código aberto, moderna e inovadora para a criação de todos os seus aplicativos.
   
 </details>
