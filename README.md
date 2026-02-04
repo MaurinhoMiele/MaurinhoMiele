@@ -61,7 +61,10 @@ Sou apaixonado por tecnologia e aprendizado contínuo. No dia a dia, busco melho
   
 </details>
 
+---
+
 ### Na área de IA
+
 <details> 
 <summary>Conhecimento na área de IA.</summary>
 
